@@ -11,4 +11,32 @@ Bu proje, bir web arayüzü üzerinden kullanıcıların görüntü dosyaların�
 ### Gereksinimler
 - .NET 6 SDK
 - Python 3.x
-- Pip paket yönetim sistemi
+- Node.js ve npm (JavaScript bağımlılıkları için)
+- 
+  Flask deposunu klonlayın:
+ ```bash
+git clone https://github.com/muharremosmantopakkaya/Flask_OCR.git
+cd Flask_OCR
+ ```
+ ```bash
+pip install -r requirements.txt
+ ```
+ ```bash
+python app.py
+ ```
+Flask OCR hizmeti artık http://localhost:5000 adresinde çalışıyor olmalı.
+
+### NET Core Uygulamasını Kurma
+.NET Core uygulamasının GitHub deposu adresinden kodları indirin veya klonlayın.
+ ```bash
+git clone https://github.com/muharremosmantopakkaya/Online-OCR-System.git
+cd Online-OCR-System
+ ```
+Gerekli bağımlılıkları yükleyin.
+ ```bash
+dotnet restore
+ ```
+Uygulamayı çalıştırın.
+ ```bash
+dotnet run
+ ```
