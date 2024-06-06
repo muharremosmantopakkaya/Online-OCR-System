@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json.schemastore.org/ekonlayer",
+  "author": "Ekon",
+  "classifications": ["Web", "API"],
+  "identity": "Ekon.EkonLayer",
+  "name": "Ekon EkonLayer",
+  "shortName": "ekonekonlayer",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "EkonLayer",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            ".vs/**",
+            "**/bin/**",
+            "**/obj/**",
+            ".git/**"
+          ]
+        }
+      ]
+    }
+  ],
+  "primaryOutputs": [
+    { "path": "EkonLayer.API/EkonLayer.API.csproj" },
+    { "path": "EkonLayer.Core/EkonLayer.Core.csproj" },
+    { "path": "EkonLayer.Helpers/EkonLayer.Helpers.csproj" },
+    { "path": "EkonLayer.Logging/EkonLayer.Logging.csproj" },
+    { "path": "EkonLayer.Repository/EkonLayer.Repository.csproj" },
+    { "path": "EkonLayer.Service/EkonLayer.Service.csproj" },
+    { "path": "EkonLayer.Web/EkonLayer.Web.csproj" }
+  ],
+  "defaultName": "EkonLayer"
+}
