@@ -51,4 +51,5 @@ dotnet run
 <div style="display:flex; justify-content: space-between;"> 
  <img src="EkonLayer/EkonLayer.Web/wwwroot/uploads/ekran.png" alt="OCR Sistemi Ekran Görüntüsü" style="width:80%; height: auto;"> 
 </div>
-[![Detaylı Çalışma Prensibi]]((https://www.youtube.com/watch?v=1LyBzkIwo-g&ab_channel=MuharremTopakkaya))
+
+ [![YouTube Video](https://img.youtube.com/vi/1LyBzkIwo-g/0.jpg)](https://youtu.be/1LyBzkIwo-g )
