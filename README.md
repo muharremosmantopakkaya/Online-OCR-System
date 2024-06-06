@@ -29,7 +29,7 @@ Flask uygulamasını çalıştırın.
  ```bash
 python app.py
  ```
-Flask OCR hizmeti artık http://localhost:5000 adresinde çalışıyor olmalı.
+Uygulama, http://localhost:5000 adresinde çalışacaktır. Bu adrese giderek uygulamanın çalıştığını doğrulayabilirsiniz.
 
 ### NET Core Uygulamasını Kurma
 .NET Core uygulamasının GitHub deposu adresinden kodları indirin veya klonlayın.
