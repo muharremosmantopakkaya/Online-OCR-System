@@ -49,6 +49,6 @@ dotnet run
 - Sonuçlar, algılanan metin ve ses dosyası olarak görüntülenecektir.
 
 <div style="display:flex; justify-content: space-between;"> 
- <img src="EkonLayer/EkonLayer.Web/wwwroot/uploads/ekran.png" alt="OCR Sistemi Ekran Görüntüsü" style="width:50%; height: auto;"> 
+ <img src="EkonLayer/EkonLayer.Web/wwwroot/uploads/ekran.png" alt="OCR Sistemi Ekran Görüntüsü" style="width:80%; height: auto;"> 
 </div>
 [![Detaylı Çalışma Prensibi](https://youtu.be/1LyBzkIwo-g)
