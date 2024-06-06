@@ -43,7 +43,9 @@ Uygulamayı çalıştırın.
 dotnet run
  ```
 ## Kullanım
--Web tarayıcınızı açın ve http://localhost:5000 adresine gidin.
--Dosyanızı yükleyin ve OCR işlemi için dili seçin.
--"Yükle" butonuna tıklayın.
--Sonuçlar, algılanan metin ve ses dosyası olarak görüntülenecektir.
+- Web tarayıcınızı açın ve http://localhost:5000 adresine gidin.
+- Dosyanızı yükleyin ve OCR işlemi için dili seçin.
+- "Yükle" butonuna tıklayın.
+- Sonuçlar, algılanan metin ve ses dosyası olarak görüntülenecektir.
+
+  [![Detaylı Çalışma Prensibi](https://youtu.be/1LyBzkIwo-g)
