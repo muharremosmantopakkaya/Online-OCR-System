@@ -12,15 +12,17 @@ Bu proje, bir web arayüzü üzerinden kullanıcıların görüntü dosyaların�
 - .NET 6 SDK
 - Python 3.x
 - Node.js ve npm (JavaScript bağımlılıkları için)
-- 
-  Flask deposunu klonlayın:
+  
+Flask deposunu klonlayın:
  ```bash
 git clone https://github.com/muharremosmantopakkaya/Flask_OCR.git
 cd Flask_OCR
  ```
+Gerekli Python paketlerini yükleyin.
  ```bash
 pip install -r requirements.txt
  ```
+Flask uygulamasını çalıştırın.
  ```bash
 python app.py
  ```
@@ -40,3 +42,8 @@ Uygulamayı çalıştırın.
  ```bash
 dotnet run
  ```
+## Kullanım
+-Web tarayıcınızı açın ve http://localhost:5000 adresine gidin.
+-Dosyanızı yükleyin ve OCR işlemi için dili seçin.
+-"Yükle" butonuna tıklayın.
+-Sonuçlar, algılanan metin ve ses dosyası olarak görüntülenecektir.
